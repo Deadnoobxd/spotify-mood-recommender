@@ -5,8 +5,8 @@ import random
 import pandas as pd
 
 # ---------------------------- CONFIG ----------------------------
-CLIENT_ID = "c6075ed4579a4c3a8317649086ff8c00"
-CLIENT_SECRET = "97de82bd86eb40959eb2c2950500dde4"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 # ------------------------ AUTH FUNCTION -------------------------
 def get_token(client_id, client_secret):
